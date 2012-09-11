@@ -1,4 +1,1 @@
-learning-how-to-program
-=======================
-
-work in progress
+This is a work in progress
